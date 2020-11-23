@@ -1,0 +1,2 @@
+# nothing
+A nothing repository
